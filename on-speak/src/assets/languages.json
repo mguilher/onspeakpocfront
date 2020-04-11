@@ -1,0 +1,682 @@
+{
+	"languages": [
+		{
+			"language": "English"
+		},
+		{
+			"language": "Spanish"
+		},
+		{
+			"language": "French"
+		},
+		{
+			"language": "German"
+		},
+		{
+			"language": "Portuguese"
+		},
+		{
+			"language": "Arabic"
+		},
+		{
+			"language": "Italian"
+		},
+		{
+			"language": "Chinese"
+		},
+		{
+			"language": "Dutch"
+		},
+		{
+			"language": "Japanese"
+		},
+		{
+			"language": "Polish"
+		},
+		{
+			"language": "Russian"
+		},
+		{
+			"language": "Turkish"
+		},
+		{
+			"language": "Korean"
+		},
+		{
+			"language": "Hindi"
+		},
+		{
+			"language": "Afrikaans"
+		},
+		{
+			"language": "AkanTwi"
+		},
+		{
+			"language": "Albanian"
+		},
+		{
+			"language": "Amharic"
+		},
+		{
+			"language": "Armenian"
+		},
+		{
+			"language": "Azeri"
+		},
+		{
+			"language": "Basque"
+		},
+		{
+			"language": "Belarusian"
+		},
+		{
+			"language": "Bengali"
+		},
+		{
+			"language": "Berber"
+		},
+		{
+			"language": "Bosnian"
+		},
+		{
+			"language": "Bulgarian"
+		},
+		{
+			"language": "Burmese"
+		},
+		{
+			"language": "Catalan"
+		},
+		{
+			"language": "Cebuano"
+		},
+		{
+			"language": "Croatian"
+		},
+		{
+			"language": "Czech"
+		},
+		{
+			"language": "Danish"
+		},
+		{
+			"language": "Dzongkha"
+		},
+		{
+			"language": "Esperanto"
+		},
+		{
+			"language": "Estonian"
+		},
+		{
+			"language": "Filipino"
+		},
+		{
+			"language": "Finnish"
+		},
+		{
+			"language": "Irish"
+		},
+		{
+			"language": "Scottish"
+		},
+		{
+			"language": "Galician"
+		},
+		{
+			"language": "Georgian"
+		},
+		{
+			"language": "Greek"
+		},
+		{
+			"language": "Gujarati"
+		},
+		{
+			"language": "Haitian"
+		},
+		{
+			"language": "Hausa"
+		},
+		{
+			"language": "Hawaiian"
+		},
+		{
+			"language": "Hebrew"
+		},
+		{
+			"language": "Hmong"
+		},
+		{
+			"language": "Hungarian"
+		},
+		{
+			"language": "Icelandic"
+		},
+		{
+			"language": "Indonesian"
+		},
+		{
+			"language": "Javanese"
+		},
+		{
+			"language": "Kannada"
+		},
+		{
+			"language": "Kazakh"
+		},
+		{
+			"language": "Kinyarwanda"
+		},
+		{
+			"language": "Khmer"
+		},
+		{
+			"language": "Klingon"
+		},
+		{
+			"language": "Kurdish"
+		},
+		{
+			"language": "Kyrgyz"
+		},
+		{
+			"language": "Lao"
+		},
+		{
+			"language": "Latin"
+		},
+		{
+			"language": "Latvian"
+		},
+		{
+			"language": "Lithuanian"
+		},
+		{
+			"language": "Luo"
+		},
+		{
+			"language": "Luxembourgish"
+		},
+		{
+			"language": "Macedonian"
+		},
+		{
+			"language": "Malagasy"
+		},
+		{
+			"language": "Malay"
+		},
+		{
+			"language": "Malayalam"
+		},
+		{
+			"language": "Maltese"
+		},
+		{
+			"language": "Maori"
+		},
+		{
+			"language": "Marathi"
+		},
+		{
+			"language": "Mongolian"
+		},
+		{
+			"language": "Nahuatl"
+		},
+		{
+			"language": "Nepali"
+		},
+		{
+			"language": "Norwegian"
+		},
+		{
+			"language": "Pashto"
+		},
+		{
+			"language": "Persian"
+		},
+		{
+			"language": "Punjabi"
+		},
+		{
+			"language": "Quechua"
+		},
+		{
+			"language": "Rohingya"
+		},
+		{
+			"language": "Romanian"
+		},
+		{
+			"language": "Samoan"
+		},
+		{
+			"language": "Sanskrit"
+		},
+		{
+			"language": "Serbian"
+		},
+		{
+			"language": "Sindhi"
+		},
+		{
+			"language": "Sinhala"
+		},
+		{
+			"language": "Slovak"
+		},
+		{
+			"language": "Slovenian"
+		},
+		{
+			"language": "Somali"
+		},
+		{
+			"language": "Swahili"
+		},
+		{
+			"language": "Swedish"
+		},
+		{
+			"language": "Tajik"
+		},
+		{
+			"language": "Tamil"
+		},
+		{
+			"language": "Tatar"
+		},
+		{
+			"language": "Telugu"
+		},
+		{
+			"language": "Thai"
+		},
+		{
+			"language": "Tibetan"
+		},
+		{
+			"language": "Turkmen"
+		},
+		{
+			"language": "Ukrainian"
+		},
+		{
+			"language": "Urdu"
+		},
+		{
+			"language": "Uyghur"
+		},
+		{
+			"language": "Uzbek"
+		},
+		{
+			"language": "Vietnamese"
+		},
+		{
+			"language": "Welsh"
+		},
+		{
+			"language": "Xhosa"
+		},
+		{
+			"language": "Yiddish"
+		},
+		{
+			"language": "Yoruba"
+		},
+		{
+			"language": "Yucatec-Maya"
+		},
+		{
+			"language": "Zhuang"
+		},
+		{
+			"language": "Zulu"
+		},
+		{
+			"language": "Sudanese"
+		},
+		{
+			"language": "English"
+		},
+		{
+			"language": "Spanish"
+		},
+		{
+			"language": "French"
+		},
+		{
+			"language": "German"
+		},
+		{
+			"language": "Portuguese"
+		},
+		{
+			"language": "Arabic"
+		},
+		{
+			"language": "Italian"
+		},
+		{
+			"language": "Chinese"
+		},
+		{
+			"language": "Dutch"
+		},
+		{
+			"language": "Japanese"
+		},
+		{
+			"language": "Polish"
+		},
+		{
+			"language": "Russian"
+		},
+		{
+			"language": "Turkish"
+		},
+		{
+			"language": "Korean"
+		},
+		{
+			"language": "Hindi"
+		},
+		{
+			"language": "Afrikaans"
+		},
+		{
+			"language": "AkanTwi"
+		},
+		{
+			"language": "Albanian"
+		},
+		{
+			"language": "Amharic"
+		},
+		{
+			"language": "Armenian"
+		},
+		{
+			"language": "Azeri"
+		},
+		{
+			"language": "Basque"
+		},
+		{
+			"language": "Belarusian"
+		},
+		{
+			"language": "Bengali"
+		},
+		{
+			"language": "Berber"
+		},
+		{
+			"language": "Bosnian"
+		},
+		{
+			"language": "Bulgarian"
+		},
+		{
+			"language": "Burmese"
+		},
+		{
+			"language": "Catalan"
+		},
+		{
+			"language": "Cebuano"
+		},
+		{
+			"language": "Croatian"
+		},
+		{
+			"language": "Czech"
+		},
+		{
+			"language": "Danish"
+		},
+		{
+			"language": "Dzongkha"
+		},
+		{
+			"language": "Esperanto"
+		},
+		{
+			"language": "Estonian"
+		},
+		{
+			"language": "Filipino"
+		},
+		{
+			"language": "Finnish"
+		},
+		{
+			"language": "Irish"
+		},
+		{
+			"language": "Scottish"
+		},
+		{
+			"language": "Galician"
+		},
+		{
+			"language": "Georgian"
+		},
+		{
+			"language": "Greek"
+		},
+		{
+			"language": "Gujarati"
+		},
+		{
+			"language": "Haitian"
+		},
+		{
+			"language": "Hausa"
+		},
+		{
+			"language": "Hawaiian"
+		},
+		{
+			"language": "Hebrew"
+		},
+		{
+			"language": "Hmong"
+		},
+		{
+			"language": "Hungarian"
+		},
+		{
+			"language": "Icelandic"
+		},
+		{
+			"language": "Indonesian"
+		},
+		{
+			"language": "Javanese"
+		},
+		{
+			"language": "Kannada"
+		},
+		{
+			"language": "Kazakh"
+		},
+		{
+			"language": "Kinyarwanda"
+		},
+		{
+			"language": "Khmer"
+		},
+		{
+			"language": "Klingon"
+		},
+		{
+			"language": "Kurdish"
+		},
+		{
+			"language": "Kyrgyz"
+		},
+		{
+			"language": "Lao"
+		},
+		{
+			"language": "Latin"
+		},
+		{
+			"language": "Latvian"
+		},
+		{
+			"language": "Lithuanian"
+		},
+		{
+			"language": "Luo"
+		},
+		{
+			"language": "Luxembourgish"
+		},
+		{
+			"language": "Macedonian"
+		},
+		{
+			"language": "Malagasy"
+		},
+		{
+			"language": "Malay"
+		},
+		{
+			"language": "Malayalam"
+		},
+		{
+			"language": "Maltese"
+		},
+		{
+			"language": "Maori"
+		},
+		{
+			"language": "Marathi"
+		},
+		{
+			"language": "Mongolian"
+		},
+		{
+			"language": "Nahuatl"
+		},
+		{
+			"language": "Nepali"
+		},
+		{
+			"language": "Norwegian"
+		},
+		{
+			"language": "Pashto"
+		},
+		{
+			"language": "Persian"
+		},
+		{
+			"language": "Punjabi"
+		},
+		{
+			"language": "Quechua"
+		},
+		{
+			"language": "Rohingya"
+		},
+		{
+			"language": "Romanian"
+		},
+		{
+			"language": "Samoan"
+		},
+		{
+			"language": "Sanskrit"
+		},
+		{
+			"language": "Serbian"
+		},
+		{
+			"language": "Sindhi"
+		},
+		{
+			"language": "Sinhala"
+		},
+		{
+			"language": "Slovak"
+		},
+		{
+			"language": "Slovenian"
+		},
+		{
+			"language": "Somali"
+		},
+		{
+			"language": "Swahili"
+		},
+		{
+			"language": "Swedish"
+		},
+		{
+			"language": "Tajik"
+		},
+		{
+			"language": "Tamil"
+		},
+		{
+			"language": "Tatar"
+		},
+		{
+			"language": "Telugu"
+		},
+		{
+			"language": "Thai"
+		},
+		{
+			"language": "Tibetan"
+		},
+		{
+			"language": "Turkmen"
+		},
+		{
+			"language": "Ukrainian"
+		},
+		{
+			"language": "Urdu"
+		},
+		{
+			"language": "Uyghur"
+		},
+		{
+			"language": "Uzbek"
+		},
+		{
+			"language": "Vietnamese"
+		},
+		{
+			"language": "Welsh"
+		},
+		{
+			"language": "Xhosa"
+		},
+		{
+			"language": "Yiddish"
+		},
+		{
+			"language": "Yoruba"
+		},
+		{
+			"language": "Yucatec-Maya"
+		},
+		{
+			"language": "Zhuang"
+		},
+		{
+			"language": "Zulu"
+		},
+		{
+			"language": "Sudanese"
+		}
+	]
+}
